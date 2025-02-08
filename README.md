@@ -1,8 +1,9 @@
-<h1 align="center">🌸 Hola, soy Alejandro Medina! 👋</h1>
+<h1 align="center">🌸 ¡Hola, soy Alejandro Medina! 👋</h1>
 <h3 align="center">💻 Futuro desarrollador de software | Apasionado por la tecnología y el anime 🎌</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/Jk8J5z6.gif" alt="Anime coder" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2QyMGw0bzdjNTU4eDFnbnYydWdsZ2JqemJmYmM3MmN6ZG11ZnVhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" 
+       alt="Anime coder" width="600"/>
 </p>
 
 ---
