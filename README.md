@@ -45,8 +45,8 @@
 ### 🎶 Ahora escuchando...  
 <p align="center">
   <a href="https://open.spotify.com/album/30NU4jc9l5NZibUAEufnuK" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=tu_usuario_spotify&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" 
-         alt="Spotify Now Playing" />
+    <img src="https://i.scdn.co/image/ab67616d00001e02f5b5c8f5c9e5bfb9c9c5b7c5" 
+         alt="Álbum en Spotify" width="300"/>
   </a>
 </p>
 
