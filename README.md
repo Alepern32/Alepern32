@@ -45,7 +45,7 @@
 ### 🎶 Ahora escuchando...  
 <p align="center">
   <a href="https://open.spotify.com/album/30NU4jc9l5NZibUAEufnuK" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Spotify_logo_black.png" 
+    <img src="https://ibb.co/fYdsgLJL" 
          alt="Escucha en Spotify" width="300"/>
   </a>
 </p>
