@@ -31,6 +31,16 @@
   <a href="https://dev.to/ale_dev" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
+  ### 📲 Conéctate conmigo  
+<p align="center">
+  <a href="https://dev.to/ale_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://www.codewars.com/users/username" target="_blank">
+    <img src="https://www.codewars.com/users/username/badges/large" />
+  </a>
+</p>
+
 </p>
 
 ---
