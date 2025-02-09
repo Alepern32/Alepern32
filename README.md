@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   <a href="https://www.codewars.com/users/username" target="_blank">
-    <img src="https://i.ibb.co/WpkYRJ5N/descarga-1.png" width="200px" />
+    <img src="https://i.ibb.co/WpkYRJ5N/descarga-1.png" width="100px" />
   </a>
 </p>
 
