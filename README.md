@@ -2,7 +2,7 @@
 <h3 align="center">💻 Futuro desarrollador de software | Apasionado por la tecnología y el anime 🎌</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/3yCynMZ0/th.jpg alt="Anime coder" width="350"/>
+  <img src="https://i.ibb.co/3yCynMZ0/th.jpg alt="Anime coder" width="250"/>
 </p>
 
 ---
