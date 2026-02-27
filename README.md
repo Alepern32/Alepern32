@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  ![GitHubCard](https://githubcard.com/Alepern32.svg)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alepern32&theme=tokyonight" width="48%" />
+  <img src="https://githubcard.com/Alepern32.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alepern32&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
